@@ -1,6 +1,12 @@
 # 小聂的仿都抖音项目
 
+### 项目预览
 
+
+
+![](https://raw.githubusercontent.com/nieshilin/xiaoniedy/refs/heads/master/1.png)
+
+![](https://raw.githubusercontent.com/nieshilin/xiaoniedy/refs/heads/master/2.png)
 
 使用说明
 

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>小聂仿抖音</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- 左侧导航栏 -->
+        <nav class="sidebar">
+            <div class="logo">
+                <img src="assets/logo.png" alt="Logo">
+            </div>
+            <ul class="nav-items">
+                <!-- 导航项由 JavaScript 动态生成 -->
+            </ul>
+        </nav>
+
+        <!-- 主内容区 -->
+        <main class="main-content">
+            <!-- 顶部搜索栏 -->
+            <div class="search-bar">
+                <input type="text" placeholder="搜索你感兴趣的内容">
+            </div>
+
+            <!-- 视频网格 -->
+            <div class="video-grid">
+                <!-- 视频卡片将由 JavaScript 动态生成 -->
+            </div>
+        </main>
+    </div>
+
+    <!-- 全屏播放遮罩层 -->
+    <div class="video-overlay">
+        <div class="fullscreen-video-container">
+            <div class="fullscreen-video-title"></div>
+            <button class="close-button">×</button>
+            <div class="video-loading"></div>
+            </video>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 
